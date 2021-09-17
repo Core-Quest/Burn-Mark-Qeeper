@@ -1,6 +1,6 @@
 Burn Mark Qeeper
 
-Does What you thing keeps your burn marks!
+Does What you think keeps your burn marks!
 
 ## Credits
 

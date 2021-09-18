@@ -1,11 +1,11 @@
 Burn Mark Qeeper
 
 Does What you think keeps your burn marks!
-*original by [Pink](https://github.com/BSMGPink)
+* Original by [Pink](https://github.com/BSMGPink)
 
 ## Credits
 
-*Thx to all the people in #quest-mod-dev for having to deal with me lol
+* Thankse people in #quest-mod-dev for having to deal with me
 
 
 
